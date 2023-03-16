@@ -1,0 +1,9 @@
+:root {
+  --theme-color-dark-10: #5a008F;
+  --theme-color-dark-20: #A100FF;
+  --theme-color-background: #ffff;
+}
+
+body {
+   background-color: var(--theme-color-background);
+}
